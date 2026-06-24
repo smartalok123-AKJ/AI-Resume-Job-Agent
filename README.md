@@ -2,6 +2,31 @@
 
 An AI-powered Resume Analyzer and Job Matching Agent built using Python and Gemini API.
 
+# AI Resume Job Agent
+
+An AI-powered career assistant that:
+
+- Extracts skills from resumes
+- Performs ATS analysis
+- Matches resumes to job descriptions
+- Generates Excel reports
+- Uses Gemini AI for intelligent recommendations
+
+## Tech Stack
+
+- Python
+- Gemini API
+- Pandas
+- PyPDF2
+- OpenPyXL
+
+## Future Enhancements
+
+- Real Job Search Agent
+- Freelance Project Search Agent
+- Email Automation
+- Daily Job Alerts
+
 ## Features
 
 * Resume Skill Extraction

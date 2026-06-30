@@ -1,0 +1,5 @@
+pandas
+requests
+PyPDF2
+google-generativeai
+openpyxl

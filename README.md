@@ -27,22 +27,23 @@ An AI-powered career assistant that:
 
 ## Features
 
-* Resume Skill Extraction
-* ATS Score Analysis
-* Job Description Matching
-* Excel Report Generation
-* AI Planning Agent
-* Memory Agent
-* Tool Calling Agent
+✅ Resume Reader
+✅ Skill Extraction
+✅ ATS Analysis
+✅ Job Search Agent
+✅ Excel Export
+✅ Secure API Key Management (.env)
 
-## Technologies Used
 
-* Python
-* Gemini API
-* Pandas
-* NumPy
-* Jupyter Notebook
-* Excel
+## Technologies
+
+- Python
+- Pandas
+- Requests
+- Jupyter Notebook
+- RapidAPI
+- Gemini AI
+- Excel Automation
 
 ## Author
 
